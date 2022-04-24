@@ -19,6 +19,9 @@ header{
 main {
 
 }
+img{
+    border: 5px solid black;
+}
 #crt:before {
     content: " ";
     display: block;
